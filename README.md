@@ -1,6 +1,6 @@
 # SuCodu
 
-SuCodu is a Web Application developed for the technical competition held at Cummins College of Engineering, Pune which is a combination of solving "sudoku + MCQs". 
+SuCodu is a Web Application developed for the technical competition held at Southeast Missouri State University, Missouri which is a combination of solving "sudoku + MCQs". 
 
 Once a participant successfully login into the system he/she can see the screen divided into 2 parts:
 1. Sudoku grid
